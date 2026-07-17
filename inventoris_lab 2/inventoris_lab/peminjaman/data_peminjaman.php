@@ -264,7 +264,7 @@ if(isset($_GET['cari'])){
                                                 <?php if($data['status'] == "Dipinjam") { ?>
                                                     <span class="badge bg-primary">Dipinjam</span>
                                                 <?php } else { ?>
-                                                    <span class="badge bg-success">Dikembalikan</span>
+                                                    <span class="badge bg-danger">Dikembalikan</span>
                                                 <?php } ?>
                                             </td>
                                             <td class="text-center">
