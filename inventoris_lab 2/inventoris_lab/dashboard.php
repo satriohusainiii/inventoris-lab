@@ -345,7 +345,7 @@ LIMIT 5
 
                                 </h5>
 
-                                <button class="btn btn-primary btn-sm">
+                                <button class="btn-success btn-sm">
 
                                     Lihat Semua
 
