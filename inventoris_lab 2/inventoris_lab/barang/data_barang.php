@@ -94,7 +94,7 @@ if (isset($_GET['cari'])) {
                                         </button>
                                     </div>
                                     <div class="col-md-2">
-                                        <a href="data_barang.php" class="btn btn-secondary w-100">Reset</a>
+                                        <a href="data_barang.php" class="btn btn-danger w-100">Reset</a>
                                     </div>
                                 </div>
                             </form>
